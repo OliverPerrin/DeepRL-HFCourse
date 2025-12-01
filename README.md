@@ -1,2 +1,2 @@
-# DeepRL-HFCourse
-This repository contains each unit from the course and all code files.
+# DeepRL-HFCourse  
+This repository contains all code files within the course for all units.  
